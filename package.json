@@ -1,0 +1,25 @@
+{
+  "name": "angular-sap-common-services",
+  "description": "SAP Common BUILD services",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sapbuild/angular-sap-common-services.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache License, Version 2.0",
+      "url": "https://github.com/sapbuild/angular-sap-common-services/blob/master/LICENSE.md"
+    }
+  ],
+  "dependencies": {
+    "lodash": "3.8.0"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.3",
+    "gulp": "~3.8.11",
+    "del": "~1.1.1",
+    "gulp-eslint": "~0.9.0",
+    "gulp-util": "~3.0.4"
+  }
+}
